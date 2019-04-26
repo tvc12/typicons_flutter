@@ -9,7 +9,7 @@ Flutter package for [Typicons](http://typicons.com)
 ![GitHub](https://img.shields.io/github/license/tvc12/typicons_flutter.svg)
 ![](https://img.shields.io/badge/pub-v0.1.0-blue.svg)
 
-Icon evil pack with the code to support flutter, easy use, beautifully.
+Typions pack with the code to support flutter, easy use, beautifully.
 
 ![](demo.png)
 
