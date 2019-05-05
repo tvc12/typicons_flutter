@@ -7,7 +7,9 @@ Flutter package for [Typicons](http://typicons.com)
 [![Build Status](https://travis-ci.com/tvc12/typicons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/typicons_flutter)
 ![](https://img.shields.io/github/contributors/tvc12/typicons_flutter.svg)
 ![GitHub](https://img.shields.io/github/license/tvc12/typicons_flutter.svg)
-![](https://img.shields.io/badge/pub-v0.2.0-blue.svg)
+![](https://img.shields.io/badge/pub-v0.2.1-blue.svg)
+[![Hits-of-Code](https://hitsofcode.com/github/tvc12/typicons_flutter)](https://hitsofcode.com/view/github/tvc12/typicons_flutter)
+
 
 Typions pack with the code to support flutter, easy use, beautifully.
 
