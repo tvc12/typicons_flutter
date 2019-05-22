@@ -13,7 +13,7 @@ Flutter package for [Typicons](http://typicons.com)
 
 Typions pack with the code to support flutter, easy use, beautifully.
 
-![](demo.png)
+<img src=demo.png width='350'/>
 
 ### Usage
 
