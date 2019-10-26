@@ -1,6 +1,6 @@
 name: typicons_flutter
 description: Typicons pack with the code to support flutter, easy use, beautifully.
-version: 0.2.1
+version: 0.3.0
 author: Vi Chi Thien <meomeocf98@gmail.com>
 homepage: https://github.com/tvc12/typicons_flutter
 repository: https://github.com/tvc12/typicons_flutter
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  pedantic: ^1.8.0+1
 flutter:
   fonts:
     - family: Typicons

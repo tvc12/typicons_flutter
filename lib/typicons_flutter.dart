@@ -1,3 +1,6 @@
 library typicons_flutter;
 
-export 'typicons.dart';
+import 'package:flutter/material.dart';
+
+part 'typicons.dart';
+part 'typicons_flutter_data.dart';

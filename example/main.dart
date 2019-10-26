@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:typicons_flutter/typicons_flutter.dart';
 
-main() => runApp(MyApp());
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
           iconSize: 35,
           color: iconColor,
           onPressed: () {
-            print(name);
+            debugPrint(name);
           },
         ),
         Text(name,
