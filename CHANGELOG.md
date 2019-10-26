@@ -1,3 +1,7 @@
+## Version 0.3.1 (27-10-2019)
+
+- Fix missing demo in README
+
 ## Version 0.3.0 (27-10-2019)
 
 - Update version packages
