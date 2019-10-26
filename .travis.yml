@@ -1,6 +1,9 @@
 os:
   - linux
-sudo: false
+sudo: required
+dist: trusty
+dart:
+  - 2.1.0
 addons:
   apt:
     sources:
