@@ -33,9 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Center(
           child: Text(
             widget.title,
-            style: TextStyle(
-              color: Colors.white
-            ),
+            style: TextStyle(color: Colors.white),
           ),
         ),
       ),
@@ -48,7 +46,10 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                _createIcon(Typicons.social_github, 'Github icon',),
+                _createIcon(
+                  Typicons.social_github,
+                  'Github icon',
+                ),
                 _createIcon(Typicons.social_instagram, 'Instagram icon'),
                 _createIcon(Typicons.plus, 'Plus icon'),
                 _createIcon(Typicons.stopwatch, 'Stopwatch icon'),
@@ -74,7 +75,8 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
-  Widget _createIcon(IconData iconData, String name, {Color iconColor = Colors.blueAccent}) {
+  Widget _createIcon(IconData iconData, String name,
+      {Color iconColor = Colors.blueAccent}) {
     return Row(
       children: <Widget>[
         IconButton(
@@ -85,12 +87,9 @@ class _MyHomePageState extends State<MyHomePage> {
             debugPrint(name);
           },
         ),
-        Text(name,
-         style: TextStyle(
-            color: iconColor,
-            fontWeight: FontWeight.bold,
-            fontSize: 14
-          ),
+        Text(
+          name,
+          style: TextStyle(color: iconColor, fontWeight: FontWeight.bold, fontSize: 14),
         ),
       ],
     );
