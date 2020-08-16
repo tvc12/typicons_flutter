@@ -18,6 +18,13 @@ Typions pack with the code to support flutter, easy use, beautifully.
 
 ### Usage
 
+#### Install
+
+```yml
+dependencies:
+  typicons_flutter: ^0.3.1
+```
+
 See more icon at [Typicons](http://typicons.com) by [Stephen Hutchings](https://github.com/stephenhutchings) (**336** icons)
 
 ```dart
