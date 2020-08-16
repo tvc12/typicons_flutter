@@ -1,6 +1,6 @@
 # typicons_flutter
 
-### Thanks to authors of [Typicons](https://github.com/evil-icons/evil-icons)
+### Thanks to authors of [Typicons](https://github.com/stephenhutchings)
 
 Flutter package for [Typicons](https://www.s-ings.com/typicons/)
 
@@ -14,16 +14,16 @@ Flutter package for [Typicons](https://www.s-ings.com/typicons/)
 
 Typions pack with the code to support flutter, easy use, beautifully.
 
-<img src="https://github.com/tvc12/typicons_flutter/raw/master/demo.png" width='350'/>
-
-### Usage
-
-#### Install
+### Install
 
 ```yml
 dependencies:
-  typicons_flutter: ^0.3.1
+  typicons_flutter: ^0.4.2
 ```
+
+<img src="https://github.com/tvc12/typicons_flutter/raw/master/demo.png" width='350'/>
+
+### Usage
 
 See more icon at [Typicons](https://www.s-ings.com/typicons/) by [Stephen Hutchings](https://github.com/stephenhutchings) (**336** icons)
 
