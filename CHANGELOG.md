@@ -1,3 +1,7 @@
+## Version 0.4.2 (16-08-2020)
+
+- Update README
+
 ## Version 0.4.1 (16-08-2020)
 
 - Update version
