@@ -2,7 +2,7 @@
 
 ### Thanks to authors of [Typicons](https://github.com/evil-icons/evil-icons)
 
-Flutter package for [Typicons](http://typicons.com)
+Flutter package for [Typicons](https://www.s-ings.com/typicons/)
 
 ![Travis (.com)](https://img.shields.io/travis/com/tvc12/typicons_flutter?style=flat-square)
 ![](https://img.shields.io/github/contributors/tvc12/typicons_flutter.svg?style=flat-square)
@@ -25,7 +25,7 @@ dependencies:
   typicons_flutter: ^0.3.1
 ```
 
-See more icon at [Typicons](http://typicons.com) by [Stephen Hutchings](https://github.com/stephenhutchings) (**336** icons)
+See more icon at [Typicons](https://www.s-ings.com/typicons/) by [Stephen Hutchings](https://github.com/stephenhutchings) (**336** icons)
 
 ```dart
 import 'package:typicons_flutter/typicons_flutter.dart';
@@ -55,4 +55,4 @@ class User extends StatelessWidget {
 
 This project is licenced under the [MIT @tvc12](https://github.com/tvc12/typicons_flutter/blob/master/LICENSE)
 
-Any bundled fonts are copyright to their respective authors under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) and [ SIL Open Font Licence](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
+Any bundled fonts are copyright to their respective authors under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) and [ SIL Open Font Licence](https://opensource.org/licenses/OFL-1.1)
