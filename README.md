@@ -4,11 +4,12 @@
 
 Flutter package for [Typicons](http://typicons.com)
 
-[![Build Status](https://travis-ci.com/tvc12/typicons_flutter.svg?branch=master)](https://travis-ci.com/tvc12/typicons_flutter)
-![](https://img.shields.io/github/contributors/tvc12/typicons_flutter.svg)
-![GitHub](https://img.shields.io/github/license/tvc12/typicons_flutter.svg)
-![](https://img.shields.io/badge/pub-v0.3.0-blue.svg)
-[![Hits-of-Code](https://hitsofcode.com/github/tvc12/typicons_flutter)](https://hitsofcode.com/view/github/tvc12/typicons_flutter)
+![Travis (.com)](https://img.shields.io/travis/com/tvc12/typicons_flutter?style=flat-square)
+![](https://img.shields.io/github/contributors/tvc12/typicons_flutter.svg?style=flat-square)
+![](https://img.shields.io/badge/license-%20CC%20BY--SA-green?style=flat-square)
+![](https://img.shields.io/badge/license-SIL%20Open%20Font-green?style=flat-square)
+![GitHub](https://img.shields.io/github/license/tvc12/typicons_flutter.svg?style=flat-square)
+![Pub Version](https://img.shields.io/pub/v/typicons_flutter?style=flat-square)
 
 
 Typions pack with the code to support flutter, easy use, beautifully.
@@ -40,11 +41,11 @@ class User extends StatelessWidget {
 ### Contributors
 
 | [![Vi Chi Thien](https://github.com/tvc12.png?size=100)](https://github.com/tvc12) |
-| :---: |
-| [Vi Chi Thien](https://github.com/tvc12) |
+| :--------------------------------------------------------------------------------: |
+|                      [Vi Chi Thien](https://github.com/tvc12)                      |
 
 ### License
 
-This project is licenced under the [MIT](https://github.com/tvc12/typicons_flutter/blob/master/LICENSE)
+This project is licenced under the [MIT @tvc12](https://github.com/tvc12/typicons_flutter/blob/master/LICENSE)
 
 Any bundled fonts are copyright to their respective authors under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) and [ SIL Open Font Licence](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
