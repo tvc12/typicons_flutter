@@ -13,11 +13,11 @@ void main() {
       final f = File('data').openWrite();
 
       lines.forEach((element) {
-        final str = regex.firstMatch(element).group(1);
-        final kebalCase = toKebalCase(str);
+        final str = regex.firstMatch(element)?.group(1) ?? '';
+        final kebabCase = toKebabCase(str);
         final url =
-            'https://github.com/stephenhutchings/typicons.font/raw/master/src/svg/${kebalCase}.svg';
-        final command = '/// ![$kebalCase]($url)';
+            'https://github.com/stephenhutchings/typicons.font/raw/master/src/svg/${kebabCase}.svg';
+        final command = '/// ![$kebabCase]($url)';
         f
           ..write(command)
           ..writeln()
@@ -30,6 +30,6 @@ void main() {
   });
 }
 
-String toKebalCase(String str) {
+String toKebabCase(String str) {
   return str.replaceAll('_', '-');
 }

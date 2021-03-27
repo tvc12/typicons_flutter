@@ -1,3 +1,9 @@
+## Version 0.5.0 (27-03-2021)
+
+- Support null safety
+- Update test case
+- Update README
+
 ## Version 0.4.2 (16-08-2020)
 
 - Update README
