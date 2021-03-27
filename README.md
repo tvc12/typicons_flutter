@@ -18,7 +18,7 @@ Typions pack with the code to support flutter, easy use, beautifully.
 
 ```yml
 dependencies:
-  typicons_flutter: ^0.4.2
+  typicons_flutter: ^0.5.0
 ```
 
 <img src="https://github.com/tvc12/typicons_flutter/raw/master/demo.png" width='350'/>
